@@ -1,3 +1,4 @@
+package Lotto;
 
 
 import java.io.BufferedReader;
@@ -53,7 +54,7 @@ public class LottoNumber extends HttpServlet {
    System.out.println(result.get("drwtNo4"));
    System.out.println(result.get("drwtNo5"));
    System.out.println(result.get("drwtNo6"));
-   System.out.println("���ʽ���ȣ= " + result.get("bnusNo"));
+   System.out.println("보너스 번호 " + result.get("bnusNo"));
   } catch (Exception e1) {
    e1.printStackTrace();
   }
