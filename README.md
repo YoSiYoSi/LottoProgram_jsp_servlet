@@ -4,7 +4,8 @@
 JSP&Servlet으로 구현함.
 
 
-## 에러
+* * *
 
-java.lang.ClassNotFoundException: org.json.JSONObject 에러 <br>
-빌드패스에 넣어준 json jar 파일을 WEB-INF > lib 에도 넣어주니 에러가 해결됨 
+![image](https://user-images.githubusercontent.com/50140381/83152228-89c74580-a138-11ea-8b75-6ad61c4c7af0.png)
+![image](https://user-images.githubusercontent.com/50140381/83152244-8e8bf980-a138-11ea-85b2-d0bde52a2d13.png)
+
